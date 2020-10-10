@@ -1,0 +1,13 @@
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/dotnetprojects
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/dotnetprojects.deps.json
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/dotnetprojects.runtimeconfig.json
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/dotnetprojects.runtimeconfig.dev.json
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/dotnetprojects.dll
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/dotnetprojects.pdb
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/obj/Debug/netcoreapp3.0/dotnetprojects.csprojAssemblyReference.cache
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/obj/Debug/netcoreapp3.0/dotnetprojects.AssemblyInfoInputs.cache
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/obj/Debug/netcoreapp3.0/dotnetprojects.AssemblyInfo.cs
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/obj/Debug/netcoreapp3.0/dotnetprojects.dll
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/obj/Debug/netcoreapp3.0/dotnetprojects.pdb
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/seanonslow/Desktop/dotnetprojects/testConsole/obj/Debug/netcoreapp3.0/dotnetprojects.csproj.CopyComplete
